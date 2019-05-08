@@ -3,8 +3,8 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://4x-n9y.tudorel1.nuls-mobile-wallet.exp.direct",
+  "packagerNgrokUrl": "https://packager.4x-n9y.tudorel1.nuls-mobile-wallet.exp.direct",
+  "ngrokPid": 7514,
   "webpackServerPort": null
 }
